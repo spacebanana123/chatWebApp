@@ -1,0 +1,136 @@
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: xx-large;
+    text-align: center;
+    color: #091540;
+}
+
+h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: x-large;
+    text-align: center;
+    color: #091540;
+}
+
+h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+    text-align: center;
+    color: #091540;
+}
+
+h4 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: small;
+    text-align: center;
+    color: #091540;
+}
+
+h5 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    text-align: center;
+    color: #091540;
+}
+
+p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    color: #091540;
+}
+
+p2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: x-large;
+    color: #091540;
+}
+
+hr {
+    border: 2px solid #091540;
+    border-radius: 4px;
+    color: #091540;
+    margin: 05%;
+}
+
+a1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    color: #136F63;
+}
+
+a1:visited {
+    color: #136F63;
+}
+
+
+a1:hover {
+    color: #abd2fa;
+}
+
+
+a1:active {
+    color: #abd2fa;
+}
+
+body {
+    background-color: white;
+}
+
+.chat {
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    border: 2px solid #091540;
+    color: #091540;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #aff5ae;
+    border-radius: 10px;
+}
+
+.messages {
+    border: 2px solid #091540;
+    padding: 5px 32px;
+    color: #091540;
+    margin: 4px 2px;
+    background-color: #92e491;
+    border-radius: 10px;
+}
+
+.messageBox{
+    border: 2px solid #091540;
+    padding: 15px 32px;
+    color: #091540;
+    margin: 4px 2px;
+    background-color: #92e491;
+    border-radius: 10px;
+    font-size: 16px;
+    width: 85%;
+}
+
+.button {
+    border: none;
+    color: #091540;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #5bc4b6;
+    border-radius: 10px;
+    width: auto;
+}
+
+.button:hover {
+    background-color: #abd2fa;
+    font-size: 17px;
+}
